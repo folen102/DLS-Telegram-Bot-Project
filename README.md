@@ -1,8 +1,6 @@
 # Проект телеграмм бота для переноса стиля изображения
 
-Этот проект представляет собой Telegram бота, который использует модель VGG19 для применения стиля
-одного изображения к другому. Это значит, что вы можете взять любое изображение, применить к нему стиль другого
-изображения и получить результат.
+Этот проект является итоговой работой курса Deep Learning School. Он представляет собой Telegram бота, который использует модель VGG19 для применения стиля одного изображения к другому. Это значит, что вы можете взять любое изображение, применить к нему стиль другого изображения и получить совершенно новый результат.
 
 Бот реализован на языке Python, используя фреймворк для создания ботов в Telegram - aiogram.
 
@@ -30,8 +28,8 @@
 
 | Изображение | Стиль | Результат |
 |-------------|-------|-----------|
-| ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Floppa.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_1.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Floppa_style_1.jpg) |
-| ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Tom.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_1.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Tom_style_1.jpg) |
-| ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Floppa.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_2.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Floppa_style_2.jpg) |
-| ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Tom.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_2.jpg) | ![](https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Tom_style_2.jpg) |
+| <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Floppa.jpg" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_1.png" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Floppa_style_1.jpg" width="200" height="200"> |
+| <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Tom.jpg" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_1.png" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Tom_style_1.jpg" width="200" height="200"> |
+| <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Floppa.jpg" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_2.jpg" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Floppa_style_2.jpg" width="200" height="200"> |
+| <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Изображения/Tom.jpg" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Стили/Стиль_2.jpg" width="200" height="200"> | <img src="https://github.com/folen102/DLS-Telegram-Bot-Project/blob/main/Примеры/Результаты/Tom_style_2.jpg" width="200" height="200"> |
 
